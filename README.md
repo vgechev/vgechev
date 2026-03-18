@@ -8,9 +8,9 @@
 
 ### About me
 
-- Building scalable fintech platforms with **.NET** and **React**
-- Passionate about clean architecture, real-time systems, and developer experience
-- Currently working on trading infrastructure, payments, and compliance tooling
+- Building scalable fintech platforms with **.NET**
+- Passionate about real-time fintech systems and developer experience
+- Currently working on trading infrastructure, payments and compliance tooling
 
 ---
 
@@ -27,10 +27,7 @@
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-61DAFB?style=flat-square&logo=blazor&logoColor=black)
 
 **Infrastructure**
 
@@ -42,17 +39,8 @@
 
 ---
 
-### GitHub stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vgechev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgechev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vgechev&theme=radical)](https://git.io/streak-stats)
 
 </div>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgechev&theme=radical)
-![goofy5752 github stats](https://github-readme-stats.vercel.app/api?username=vgechev&show_icons=true&hide_border=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vgechev&theme=radical)](https://git.io/streak-stats)
