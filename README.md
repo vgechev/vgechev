@@ -1,7 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgechev&theme=radical)
-![goofy5752 github stats](https://github-readme-stats.vercel.app/api?username=vgechev&show_icons=true&hide_border=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vgechev&theme=radical)](https://git.io/streak-stats)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Building+fintech+products;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
@@ -54,3 +50,9 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgechev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 </div>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgechev&theme=radical)
+![goofy5752 github stats](https://github-readme-stats.vercel.app/api?username=vgechev&show_icons=true&hide_border=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vgechev&theme=radical)](https://git.io/streak-stats)
